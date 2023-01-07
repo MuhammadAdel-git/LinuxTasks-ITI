@@ -1,0 +1,586 @@
+    1  ls
+    2  documents
+    3  Documents
+    4  ls
+    5  Documents
+    6  ls
+    7  cela
+    8  clea
+    9  clear
+   10  s
+   11  clear
+   12  ls
+   13  nautilis
+   14  nautilus
+   15  cls
+   16  clear
+   17  sudo su
+   18  nautilus
+   19  sudo su
+   20  cd ~
+   21  lsit
+   22  list
+   23  sudo su
+   24  cd ~
+   25  pwd
+   26  touch mahi
+   27  list
+   28  ls
+   29  mkdir adel
+   30  ls
+   31  pwd
+   32  cd adoola
+   33  cd ~ adoola
+   34  mkdir Mu
+   35  mkdir yarabOstor
+   36  cd ~
+   37  cd yarabOstor
+   38  pw
+   39  owd
+   40  pw
+   41  pwd
+   42  cd ..
+   43  touch MUMU
+   44  mkdir MUMUU
+   45  cd MUMUU
+   46  pwd
+   47  cd ..
+   48  pwd
+   49  cd / bin
+   50  cd /binm
+   51  cd /bin
+   52  ls
+   53  ls / grep dit
+   54  ls | grep ls
+   55  ls | grep stdmt
+   56  cat ls
+   57  cd /bin
+   58  cd ..
+   59  cd bin/ls
+   60  cd bin /ls
+   61  cd bin
+   62  cd /bin
+   63  gedit ls
+   64  touch fileITI
+   65  cd..
+   66  cd ..
+   67  touch fileITI
+   68  cat ls
+   69  clear
+   70  touch fileITI
+   71  clear
+   72  cd ~
+   73  touch fileITI
+   74  gedit fileITI
+   75  cd /etc
+   76  ls
+   77  cd ..
+   78  ifconfirm
+   79  if config
+   80  cle
+   81  clea
+   82  clear
+   83  ifconfig
+   84  sudo apt install net-tools
+   85  ifconfig
+   86  sudo apt install net-tools
+   87  ifconfig
+   88  sudo apt install net-tools
+   89  sudo apt-get install munin-memcached 
+   90  /user/include
+   91  /usr/iclude
+   92  /usr/include$ ls
+   93  cd ..
+   94  cd /usr/include
+   95  ls
+   96  cd ..
+   97  sudo apt install build-essential
+   98  sudo add-apt-repository ppa:chris-lea/munin-plugins
+   99  [200~sudo apt-get update~
+  100  sudo apt-get update
+  101  sudo apt install build-essential
+  102  sudo apt install net-tools
+  103  ls | grep strdio
+  104  cd usr
+  105  cd inlcude
+  106  cd include
+  107  cd ..
+  108  lib | gedit lib
+  109  cd ~ 
+  110  c
+  111  cd
+  112  cd ..
+  113  ls
+  114  cd ~
+  115  cd /dev/input
+  116  ls
+  117  cd ~
+  118  cd dev
+  119  cd /dev
+  120  cd ..
+  121  cd /dev /input
+  122  cd /dev/input
+  123  clea
+  124  clear
+  125  clea
+  126  rclear
+  127  clear
+  128  cd ~
+  129  cd /desktop
+  130  cd /Desktop
+  131  cd Home/Desktop
+  132  mkdir pyLab10
+  133  cd /pyLab10
+  134  cd pyLab10
+  135  touch test.py
+  136  gedit test.py
+  137  python test.py
+  138  python3 test.py
+  139  gedit test.py
+  140  python test.py
+  141  python3 test.py
+  142  py test.py
+  143  sudo apt install pythonpy
+  144  gcc std.c
+  145  g++ st.cpp
+  146  toucn test.c
+  147  touch test.c
+  148  gedit test.c
+  149  gcc test.c -o out
+  150  ./ out
+  151  out.exe
+  152  sudo apt install mingw-w64
+  153  touch testpp.cpp
+  154  gedit testpp.cpp
+  155  g++ testpp.cpp -o out.exe
+  156  gedit testpp.cpp
+  157  g++ testpp.cpp -o out.exe
+  158  gedit testpp.cpp
+  159  g++ testpp.cpp -o out.exe
+  160  ./out.exe
+  161  sudu nano /etc/network/interfaces
+  162  cls
+  163  cl
+  164  clear
+  165  skl
+  166  clear
+  167  kdlvm;
+  168  kmfds
+  169  'kfldsd
+  170  'kldskd
+  171  wifi
+  172  sudu nano /etc/network/interfaces
+  173  snap version
+  174  ap install snapd -y
+  175  apt install snapd -y
+  176  yes
+  177  ln -s /var/lib/snapd/snap /snap
+  178  % sudo su -
+  179  % sudo su-
+  180  clear
+  181  cd /
+  182  cd opt/
+  183  apt install snapd -y
+  184  sudo su
+  185  eclipse
+  186  mkdir sayed
+  187  sc ~
+  188  cd ~
+  189  mkdir sayed
+  190  cd sayed/
+  191  cd ~
+  192  ls
+  193  cd sayed/
+  194  touch sayed.cpp
+  195  gedit sayed.cpp 
+  196  g++ sayed.cpp -o out.exe
+  197  gedit sayed.cpp 
+  198  g++ sayed.cpp -o out.exe
+  199  out.exe
+  200  ./out
+  201  g++ out.exe
+  202  ./out.exe
+  203  eclipse
+  204  geddit eclipse
+  205  /etc
+  206  man ls
+  207  cd --help
+  208  help cd
+  209  cd ls
+  210  cd elp
+  211  cd help
+  212  help --c
+  213  help cd
+  214  cd --help
+  215  man ls
+  216  hava nagila
+  217  klfsd kdfsl
+  218  nagila
+  219  hava
+  220  man ls
+  221  geddit /home
+  222  pwd /home
+  223  man 1 intro
+  224  man 8 intro
+  225  man 9 intro
+  226  LS
+  227  man LS
+  228  man -I LS
+  229  man -i LS
+  230  man -f ls
+  231  MAN -f LS
+  232  man -f ls
+  233  man -f pwd
+  234  man -f passwd
+  235  cd
+  236  cd ..
+  237  history
+  238  history >> AlaaTXT
+  239  sudo history >> AlaaTXT
+  240  cd ..
+  241  history >> AlaaTxt
+  242  geddit Alaa
+  243  geddit AlaaTXT
+  244  gedit Sayed
+  245  sudo su
+  246  echo x
+  247  echo $X
+  248  exit
+  249  q
+  250  bash
+  251  ext
+  252  exit
+  253  bash
+  254  exit
+  255  gedit alaa&
+  256  bahs
+  257  bash
+  258  bash
+  259  clear
+  260  gedit AlaanElnaggar
+  261  vim
+  262  vim AlaanElnaggar
+  263  sudo apt install vim
+  264  vim AlaanElnaggar
+  265  uname -n
+  266  uname -r
+  267  uname -a
+  268  nano Alaa_5
+  269  mkdir LAB3
+  270  cd LAB3/
+  271  mkdir F1 F2
+  272  touch file1
+  273  touch file1.txt
+  274  tree
+  275  cp file1.txt F1
+  276  tree
+  277  sudo snap install # version 1.8.0+pkg-3fd6
+  278  sudo apt install # version 2.0.2-1
+  279  sudo snap install # version 1.8.0+pkg-3fd6
+  280  tree
+  281  sudo apt install tree # version 2.0.2-1
+  282  cp -r F2 F1
+  283  tree
+  284  mv F1 F2
+  285  tree
+  286  mv F1 F2
+  287  tree
+  288  cp -r file1.txt  F1
+  289  tree
+  290  cp -r file1.txt F1
+  291  tree
+  292  cd /
+  293  tree -l
+  294  tree -L 3
+  295  tree -L 2
+  296  cd ~
+  297  clear
+  298  cd Desktop/
+  299  pwd
+  300  mkdir F1/F2/F3
+  301  mkdir-p F1/F2/F3
+  302  mkdir-pv F1/F2/F3
+  303  mkdir F20/F2/F3
+  304  mkdir -p  F20/F2/F3
+  305  tree
+  306  mkdir -p f30/{f1,f2,f3}
+  307  tree
+  308  rm -rv F20
+  309  tree
+  310  rm -rv f30
+  311  tree
+  312  mkdir -p F3/f6/f5/f8
+  313  rm -iv f8
+  314  rm -iv F3
+  315  rm -rv F3
+  316  tree
+  317  vm text.txt
+  318  sudo apt install mgetty-voice
+  319  vim f1
+  320  tail f1
+  321  head f1
+  322  mkdir -p f1
+  323  vim f1
+  324  tail f1
+  325  vim f1
+  326  vim muhammad
+  327  tail muhammad
+  328  head muhammad
+  329  tree
+  330  rm -rv f1
+  331  tree
+  332  more muhammad
+  333  less muhammad
+  334  head -n muhammad
+  335  tail -n muhammad
+  336  head -n 10 muhammad
+  337  tail -n 10 muhammad
+  338  more -n 10 muhammad
+  339  ls
+  340  more muhammad
+  341  vim muhammad
+  342  more -n 10 muhammad
+  343  less -n 5 muhammad
+  344  more -n 5  muhammad
+  345  tail -5 muhammad
+  346  head -9 muhammad
+  347  head -2 muhammad
+  348  tail -2 muhammad
+  349  more -2 muhammad
+  350  less -2 muhammad
+  351  more -2 muhammad
+  352  less -8 muhammad
+  353  man head 
+  354  ls -li
+  355  tree
+  356  rm*
+  357  rm muhammad
+  358  tree
+  359  ls
+  360  touch file1.txt
+  361  touch file2.txt
+  362  vim file1
+  363  ls file1.txt file2.txt
+  364  rm file1.txt
+  365  rm file2.txt
+  366  tree
+  367  rm file1
+  368  tree
+  369  touch Muhammad
+  370  touch Haha
+  371  LS
+  372  ls
+  373  gedit Muhammad
+  374  gedit Muhammad &
+  375  ln Muhammad Haha
+  376  ln Muhammad.txt Haha.txt
+  377  gedit Haha
+  378  ls
+  379  rm Haha.TXT
+  380  rm Haha.txt
+  381  rm Haha
+  382  rm Muhammad
+  383  rm Muhammad.txt
+  384  touch mu
+  385  rm mu
+  386  tree
+  387  gedit mu
+  388  rm mu
+  389  rm mu.txt
+  390  touch m.txt
+  391  ln m.txt k.txt
+  392  ls
+  393  ls -li
+  394  tree
+  395  geddit m.txt
+  396  gedit m.txt
+  397  cat m.txt
+  398  cat k.txt
+  399  gedit k.txt
+  400  & gedit k.txt
+  401  &
+  402  gedit k.txt &
+  403  gedit m.txt &
+  404  gedit k.txt &
+  405  gedit m.txt &
+  406  rm k.txt
+  407  tree
+  408  rm k
+  409  rm k.txt
+  410  tree
+  411  ls
+  412  cat m.txt
+  413  ln -s m.txt k.txt
+  414  ls -li
+  415  gedit k.txt
+  416  gedit k.txt &
+  417  rm m.txt
+  418  cat k.txt
+  419  tree
+  420  ls
+  421  cat m.txt
+  422  ls -li
+  423  touch m.txt k.txt
+  424  ls -li
+  425  gedit m.txt
+  426  gedit m.txt &
+  427  cat m.txt
+  428  cat k.txt
+  429  rm k.txt
+  430  cat m.txt
+  431  ln m.txt k.txt
+  432  ls -li
+  433  unlink m.txt
+  434  ls -li
+  435  tre
+  436  tree
+  437  ls -l file
+  438  ls -l k
+  439  ls -l k.txt
+  440  ls
+  441  rm -rv
+  442  rm -rv k.txt
+  443  tree
+  444  touch f1
+  445  ls -l
+  446  chmod u+x f1
+  447  ls -l
+  448  chmod u+w f1
+  449  ls -l
+  450  chmod u-x f1
+  451  ls -l
+  452  chmod 000
+  453  chmod u---, g---
+  454  ls -li
+  455  chmod uog-rwx
+  456  chmod uog-rwxf1
+  457  chmod uog-rwx f1
+  458  ls -li
+  459  chmod uog+rwx f1
+  460  ls -li
+  461  chmod u+rwx f1
+  462  ls -li
+  463  chmod 777
+  464  chmod 777 f1
+  465  chmod 000 f1
+  466  ls -li
+  467  sudo adduser muhammad
+  468  su muhammad
+  469  sudo deluser muhammad
+  470  cd home/
+  471  cd ~
+  472  cd /home
+  473  rm -r muhammad
+  474  sudo rm -r muhammad
+  475  ls
+  476  sudo usermod -aG sudo embeddedlinuxusr
+  477  sudo ls
+  478  sudo usermod -aG sudo muhammad
+  479  sudo ls
+  480  su muhammad
+  481  rm -r ade
+  482  rm -r adel
+  483  rm -r /
+  484  rm -r / 2>errorfile
+  485  rm -r /
+  486  rm -r / 2>errorfile
+  487  gedit errorfile
+  488  cat /dev/null
+  489  grep -r power/sys/
+  490  grep -r power/ sys/ 1> /file
+  491  grep -r power/ sys/ 1> /g
+  492  grep -r power/ sys/ 1> g
+  493  grep -r power/sys/ 1> g
+  494  grep -r power/sys/ 1>g
+  495  grep -r power /sys/ 1>g
+  496  cd \power
+  497  cd /power
+  498  grep -r power /sys/ 1>g
+  499  cd /power
+  500  grep -r power /sys/ 1>g &
+  501  touch x1 x2 x3 x4
+  502  tree
+  503  touch x1 x2 x3 x4
+  504  ls
+  505  ls -l *y
+  506  ls -l x4
+  507  ls -l x
+  508  ls -l u
+  509  ls -l U
+  510  ls
+  511  touch 1f 2f 3f 4f 5f f88 88f
+  512  ls
+  513  rm -r *f
+  514  ls
+  515  rm -r *f*
+  516  ls
+  517  rm -r x*
+  518  ls
+  519  ghfldjkspl[; hgjlfk;'dlp
+  520  wq
+  521  rm -r  [A-Z]
+  522  rm  [A-Z]
+  523  ls
+  524  history
+  525  echo "Hello here is Muhammad"
+  526  ./SCRIPT
+  527  cat SCRIPT
+  528  ./SCRIPT
+  529  echo Hello * world
+  530  cho "Hello * world"
+  531  echo "Hello * world"
+  532  echo Hello * world
+  533  echo *
+  534  ./SCRIPT
+  535  echo *.sh
+  536  touch f1 f2 f31
+  537  echo *.1
+  538  echo *.f1
+  539  echo" *.f1"
+  540  echo " *.f1"
+  541  echo "*.f1"
+  542  echo *.f1
+  543  ./SCRIPT
+  544  export x=5
+  545  ./SCRIPT
+  546  echo $v
+  547  echo $v1
+  548  exit
+  549  echo $v
+  550  exit
+  551  main --version
+  552  mail --version
+  553  sudo apt-get install mailutils
+  554  nano /etc/sstmp/sstmp.conf
+  555  sudo nano /etc/ssmtp/ssmtp.conf
+  556  sudo apt install ssmtp
+  557  sudo nano /etc/ssmtp/ssmtp.conf
+  558  sudo nano /etc/ssmtp/ssmtp.conf
+  559  mail -s "Eisdjok" bishobahy@gmail.com
+  560  cd Desktop
+  561  touch MailTask
+  562  gedit MailTask &
+  563  ls -l 
+  564  chmod 777 MailTask
+  565  ./MailTask 
+  566  gedit MailTask &
+  567  ./MailTask 
+  568  gedit MailTask
+  569  gedit MailTask &
+  570  touch MusicTask
+  571  gedit MusicTask &
+  572  gedit MusicTask &
+  573  chmod 777 MusicTask 
+  574  ./MusicTask 
+  575  gedit MusicTask &
+  576  sudo apt-get install sox libsox-fmt-all
+  577  ./MusicTask 
+  578  history
+  579  cd Desktop
+  580  /history/ 2> HistoryFile.txt
+  581  gedit HistoryFile.txt 
+  582  /history 2> HistoryFile.txt
+  583  gedit HistoryFile.txt 
+  584  history 2> HistoryFile.txt
+  585  gedit HistoryFile.txt 
+  586  history > HistoryFile.txt 
