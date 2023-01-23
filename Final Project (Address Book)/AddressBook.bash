@@ -108,9 +108,9 @@ do
 if [ ${arr[$index_removed]} -eq $num_removed ]
 then
 unset arr[$index_removed]
-counter=counter-1
+let counter=counter-1
 fi
-index_removed=index_removed+1
+let index_removed=index_removed+1
 done
 
 
