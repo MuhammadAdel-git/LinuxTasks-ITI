@@ -1,8 +1,8 @@
 #!/bin/bash
 
 counter=0
-arr=(0)
-
+arr=(1 2 3)
+name_arr=("Muhammad" "Adel" "Helmi")
 echo " "
 echo "*********** The Address Book ************ "
 echo " "
@@ -61,13 +61,15 @@ fi
 done
 
 #***************************
-#To edit an item
+#To add an item
 elif [ $choice -eq 3 ]
 then
 
 read -p "enter a number: " num_added
+read -p "enter a name: " name_added
 
 arr[$counter]=$num_added
+name_arr[$counter]=$name_added
 let counter=counter+1
 
 #*******************************************************
